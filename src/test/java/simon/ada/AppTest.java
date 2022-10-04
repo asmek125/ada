@@ -16,7 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
        
-    	 System.out.println( "Test przeszedł" );
+    	 System.out.println( "Test przeszedł Kurwa jego mać);
     	assertTrue( true );
     }
 }
